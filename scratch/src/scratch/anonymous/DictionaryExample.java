@@ -1,5 +1,7 @@
 package scratch.anonymous;
 
+// special comment here
+
 public class DictionaryExample {
 
 	 
