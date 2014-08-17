@@ -1,7 +1,7 @@
 package scratch.anonymous;
 
 // special comment here 2
-
+// from git command line
 public class DictionaryExample {
 
 	 
